@@ -1,0 +1,7 @@
+{
+    "port": 8001,
+    "userPath": "http://localhost:8001/api",
+    "utilPath": "http://localhost:8003/v3",
+    "Version": "v1"
+
+}
